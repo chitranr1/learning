@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tesngsuite2" duration-ms="32424" started-at="2021-11-02T08:53:00Z" finished-at="2021-11-02T08:53:33Z">
+    <groups>
+    </groups>
+    <test name="Testng2" duration-ms="22747" started-at="2021-11-02T08:53:00Z" finished-at="2021-11-02T08:53:23Z">
+      <class name="TestNGTest.Test003">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:TestNGTest.Test003@457e2f02]" name="setUP" is-config="true" duration-ms="3305" started-at="2021-11-02T14:23:00Z" finished-at="2021-11-02T14:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNGTest.Test003@457e2f02]" name="Test1" duration-ms="15168" started-at="2021-11-02T14:23:04Z" finished-at="2021-11-02T14:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGTest.Test003@457e2f02]" name="tearDown" is-config="true" duration-ms="4241" started-at="2021-11-02T14:23:19Z" finished-at="2021-11-02T14:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGTest.Test003 -->
+    </test> <!-- Testng2 -->
+    <test name="Testng21" duration-ms="9631" started-at="2021-11-02T08:53:23Z" finished-at="2021-11-02T08:53:33Z">
+      <class name="TestNGTest.Test004">
+        <test-method status="PASS" signature="setUP1()[pri:0, instance:TestNGTest.Test004@604ed9f0]" name="setUP1" is-config="true" duration-ms="1774" started-at="2021-11-02T14:23:23Z" finished-at="2021-11-02T14:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNGTest.Test004@604ed9f0]" name="Test2" duration-ms="7646" started-at="2021-11-02T14:23:25Z" finished-at="2021-11-02T14:23:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="tearDown1()[pri:0, instance:TestNGTest.Test004@604ed9f0]" name="tearDown1" is-config="true" duration-ms="207" started-at="2021-11-02T14:23:33Z" finished-at="2021-11-02T14:23:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+      </class> <!-- TestNGTest.Test004 -->
+    </test> <!-- Testng21 -->
+  </suite> <!-- Tesngsuite2 -->
+</testng-results>

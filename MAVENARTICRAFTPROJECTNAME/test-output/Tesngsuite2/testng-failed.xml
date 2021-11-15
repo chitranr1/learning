@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Tesngsuite2]">
+  <test name="Testng2(failed)">
+    <classes>
+      <class name="TestNGTest.Test004">
+        <methods>
+          <include name="Test2"/>
+          <include name="tearDown1"/>
+          <include name="setUP1"/>
+        </methods>
+      </class> <!-- TestNGTest.Test004 -->
+      <class name="TestNGTest.Test003">
+        <methods>
+          <include name="setUP"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNGTest.Test003 -->
+    </classes>
+  </test> <!-- Testng2(failed) -->
+</suite> <!-- Failed suite [Tesngsuite2] -->
